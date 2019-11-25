@@ -1,0 +1,15 @@
+@startuml
+
+left to right direction
+skinparam packageStyle rectangle
+actor Administrador
+actor Clientes
+rectangle Sierra_Leona {
+  Administrador -- (Administrar datos del usuario)
+  Administrador -- (Administrar datos de facturacion )
+  (Ver boleta) -- Clientes
+  Administrador -- (Mantencion)
+  (Mantencion) -- Clientes
+ 
+}
+@enduml

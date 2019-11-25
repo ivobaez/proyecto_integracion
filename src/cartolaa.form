@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.ButtonGroup" name="grupo1">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="grupo2">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="grupo3">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="grupo4">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="grupo5">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="grupo6">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="grupo7">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="grupo8">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="grupo9">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="grupo10">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="grupo11">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="grupo12">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="grupo13">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="grupo14">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="grupo15">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="grupo16">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="title" type="java.lang.String" value="BET366"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="lblLigaChilena6" min="-2" pref="211" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="50" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="lblLigaChilena5" min="-2" pref="219" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="rbLigaChilenaLocal3" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="rbLigaChilenaEmpate3" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="rbLigaChilenaVisita3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="rbLigaChilenaLocal4" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="rbLigaChilenaEmpate4" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="rbLigaChilenaVisita4" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="lblpelota1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="lblLigaChilena1" alignment="0" min="-2" pref="195" max="-2" attributes="0"/>
+                                  <Component id="lblLigaChilena" alignment="0" min="-2" pref="174" max="-2" attributes="0"/>
+                                  <Component id="lblLigaChilena4" alignment="0" min="-2" pref="195" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="lblpelota2" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="lblCopaLibertadores1" min="-2" pref="195" max="-2" attributes="0"/>
+                                  <Component id="lblCopaLibertadores4" alignment="0" min="-2" pref="195" max="-2" attributes="0"/>
+                                  <Component id="lblCopaLibertadores" alignment="0" min="-2" pref="174" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="262" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="76" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lblLigaChilena2" min="-2" pref="195" max="-2" attributes="0"/>
+                          <Component id="lblLigaChilena3" alignment="0" min="-2" pref="195" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="rbLigaChilenaLocal2" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="rbLigaChilenaEmpate2" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="rbLigaChilenaVisita2" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="rbLigaChilenaLocal1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="rbLigaChilenaEmpate1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="rbLigaChilenaVisita1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="lblCopaLibertadores3" min="-2" pref="219" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                      <Component id="rbCopaLibertadoresLocal2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="rbCopaLibertadoresEmpate2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="rbCopaLibertadoresVisita2" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="lblCopaLibertadores2" min="-2" pref="219" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                      <Component id="rbCopaLibertadoresLocal1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="rbCopaLibertadoresEmpate1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="rbCopaLibertadoresVisita1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="lblCopaLibertadores6" min="-2" pref="219" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                      <Component id="rbCopaLibertadoresLocal4" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="rbCopaLibertadoresEmpate4" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="rbCopaLibertadoresVisita4" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="lblCopaLibertadores5" min="-2" pref="219" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                      <Component id="rbCopaLibertadoresLocal3" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="rbCopaLibertadoresEmpate3" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="rbCopaLibertadoresVisita3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="lblpelota4" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="lblEnglandLigaPremier1" alignment="0" min="-2" pref="195" max="-2" attributes="0"/>
+                                  <Component id="lblEnglandLigaPremier" alignment="0" min="-2" pref="174" max="-2" attributes="0"/>
+                                  <Component id="lblEnglandLigaPremier4" alignment="0" min="-2" pref="195" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <Component id="lblUEFAChampionsLeague6" min="-2" pref="211" max="-2" attributes="0"/>
+                                          <EmptySpace min="-2" pref="50" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="75" max="-2" attributes="0"/>
+                                          <Component id="lblUEFAChampionsLeague5" min="-2" pref="219" max="-2" attributes="0"/>
+                                          <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <Component id="rbUEFAChampionsLeagueLocal3" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="rbUEFAChampionsLeagueEmpate3" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="rbUEFAChampionsLeagueVisita3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="rbUEFAChampionsLeagueLocal4" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="rbUEFAChampionsLeagueEmpate4" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="rbUEFAChampionsLeagueVisita4" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="103" alignment="1" groupAlignment="0" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="rbUEFAChampionsLeagueLocal2" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Component id="rbUEFAChampionsLeagueEmpate2" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Component id="rbUEFAChampionsLeagueVisita2" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="rbUEFAChampionsLeagueLocal1" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Component id="rbUEFAChampionsLeagueEmpate1" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Component id="rbUEFAChampionsLeagueVisita1" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="lblEnglandLigaPremier6" min="-2" pref="219" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                                  <Component id="rbEnglandLigaPremierLocal4" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="rbEnglandLigaPremierEmpate4" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="rbEnglandLigaPremierVisita4" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="lblEnglandLigaPremier5" min="-2" pref="219" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                                  <Component id="rbEnglandLigaPremierLocal3" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="rbEnglandLigaPremierEmpate3" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="rbEnglandLigaPremierVisita3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="lblEnglandLigaPremier3" min="-2" pref="219" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                                  <Component id="rbEnglandLigaPremierLocal2" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="rbEnglandLigaPremierEmpate2" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="rbEnglandLigaPremierVisita2" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="lblEnglandLigaPremier2" min="-2" pref="219" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                                  <Component id="rbEnglandLigaPremierLocal1" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="rbEnglandLigaPremierEmpate1" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="rbEnglandLigaPremierVisita1" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="lblpelota3" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="lblUEFAChampionsLeague4" alignment="0" min="-2" pref="195" max="-2" attributes="0"/>
+                                  <Component id="lblUEFAChampionsLeague1" alignment="0" min="-2" pref="195" max="-2" attributes="0"/>
+                                  <Component id="lblUEFAChampionsLeague" min="-2" pref="231" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="71" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lblUEFAChampionsLeague2" alignment="0" min="-2" pref="195" max="-2" attributes="0"/>
+                          <Component id="lblUEFAChampionsLeague3" alignment="0" min="-2" pref="195" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="331" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="jButton3" min="-2" pref="63" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jButton2" min="-2" pref="71" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jLabel1" min="-2" pref="107" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="lblpelota1" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lblLigaChilena" alignment="0" min="-2" pref="29" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="lblLigaChilena1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="lblLigaChilena2" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                              <Component id="lblLigaChilena3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="rbLigaChilenaLocal1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="rbLigaChilenaEmpate1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="rbLigaChilenaVisita1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="rbLigaChilenaLocal2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="rbLigaChilenaEmpate2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="rbLigaChilenaVisita2" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="lblLigaChilena4" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblLigaChilena5" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbLigaChilenaLocal3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbLigaChilenaEmpate3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbLigaChilenaVisita3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblLigaChilena6" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbLigaChilenaLocal4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbLigaChilenaEmpate4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbLigaChilenaVisita4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="lblpelota2" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lblCopaLibertadores" alignment="0" min="-2" pref="29" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="lblCopaLibertadores1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblCopaLibertadores2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbCopaLibertadoresLocal1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbCopaLibertadoresEmpate1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbCopaLibertadoresVisita1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblCopaLibertadores3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbCopaLibertadoresLocal2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbCopaLibertadoresEmpate2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbCopaLibertadoresVisita2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="lblCopaLibertadores4" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblCopaLibertadores5" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbCopaLibertadoresLocal3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbCopaLibertadoresEmpate3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbCopaLibertadoresVisita3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblCopaLibertadores6" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbCopaLibertadoresLocal4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbCopaLibertadoresEmpate4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbCopaLibertadoresVisita4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="lblpelota3" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lblUEFAChampionsLeague" alignment="0" min="-2" pref="29" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="lblUEFAChampionsLeague1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblUEFAChampionsLeague2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbUEFAChampionsLeagueLocal1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbUEFAChampionsLeagueEmpate1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbUEFAChampionsLeagueVisita1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblUEFAChampionsLeague3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbUEFAChampionsLeagueLocal2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbUEFAChampionsLeagueEmpate2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbUEFAChampionsLeagueVisita2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="lblUEFAChampionsLeague4" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblUEFAChampionsLeague5" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbUEFAChampionsLeagueLocal3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbUEFAChampionsLeagueEmpate3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbUEFAChampionsLeagueVisita3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblUEFAChampionsLeague6" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbUEFAChampionsLeagueLocal4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbUEFAChampionsLeagueEmpate4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbUEFAChampionsLeagueVisita4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="lblpelota4" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lblEnglandLigaPremier" alignment="0" min="-2" pref="29" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="lblEnglandLigaPremier1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblEnglandLigaPremier2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbEnglandLigaPremierLocal1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbEnglandLigaPremierEmpate1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbEnglandLigaPremierVisita1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblEnglandLigaPremier3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbEnglandLigaPremierLocal2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbEnglandLigaPremierEmpate2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbEnglandLigaPremierVisita2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="lblEnglandLigaPremier4" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblEnglandLigaPremier5" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbEnglandLigaPremierLocal3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbEnglandLigaPremierEmpate3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbEnglandLigaPremierVisita3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblEnglandLigaPremier6" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbEnglandLigaPremierLocal4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbEnglandLigaPremierEmpate4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rbEnglandLigaPremierVisita4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jButton3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jButton2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/imagenes/torneo.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblpelota1">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/imagenes/pelota.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblLigaChilena">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Liga Chilena"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblLigaChilena1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="27 de jul. de 2019"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblLigaChilena2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="20:00 - Audax Italiano VS Iquique"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbLigaChilenaLocal1">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Local"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbLigaChilenaEmpate1">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Empate"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbLigaChilenaVisita1">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Visita"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblLigaChilena3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="15:00 - Palestino VS Univ De Chile"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbLigaChilenaLocal2">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo2"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Local"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbLigaChilenaEmpate2">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo2"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Empate"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbLigaChilenaVisita2">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo2"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Visita"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblLigaChilena4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="28 de jul. de 2019"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblLigaChilena6">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="15:00 - Huachipato VS Univ Catolica"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbLigaChilenaLocal3">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo4"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Local"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbLigaChilenaEmpate3">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo4"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Empate"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbLigaChilenaVisita3">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo4"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Visita"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblLigaChilena5">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="17:30 - Colo Colo VS Everton De Vina"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbLigaChilenaLocal4">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo3"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Local"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbLigaChilenaEmpate4">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo3"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Empate"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbLigaChilenaVisita4">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo3"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Visita"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblpelota2">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/imagenes/pelota.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblCopaLibertadores">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Copa Libertadores"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblCopaLibertadores1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="23 de jul. de 2019"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblCopaLibertadores2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="18:15 - River Plate VS Cruzeiro"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbCopaLibertadoresLocal1">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo5"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Local"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbCopaLibertadoresEmpate1">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo5"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Empate"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbCopaLibertadoresVisita1">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo5"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Visita"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblCopaLibertadores3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="20:30 - Godoy Cruz VS Palmeiras"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbCopaLibertadoresLocal2">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo6"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Local"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbCopaLibertadoresEmpate2">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo6"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Empate"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbCopaLibertadoresVisita2">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo6"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Visita"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblCopaLibertadores4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="24 de jul. de 2019"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblCopaLibertadores5">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="18:15 - Nacional VS Internacional"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbCopaLibertadoresLocal3">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo7"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Local"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbCopaLibertadoresEmpate3">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo7"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Empate"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbCopaLibertadoresVisita3">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo7"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Visita"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblCopaLibertadores6">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="20:30 - Emelec VS Flamengo"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbCopaLibertadoresLocal4">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo8"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Local"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbCopaLibertadoresEmpate4">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo8"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Empate"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbCopaLibertadoresVisita4">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo8"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Visita"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblUEFAChampionsLeague3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="14:00 - Ferencvaros VS Valletta"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbEnglandLigaPremierEmpate1">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo13"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Empate"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbEnglandLigaPremierVisita1">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo13"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Visita"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblEnglandLigaPremier3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="07:30 - West Ham VS Manchester City"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbEnglandLigaPremierLocal2">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo14"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Local"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbEnglandLigaPremierEmpate2">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo14"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Empate"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbEnglandLigaPremierVisita2">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo14"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Visita"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbUEFAChampionsLeagueLocal2">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo10"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Local"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbUEFAChampionsLeagueEmpate2">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo10"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Empate"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblEnglandLigaPremier4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="11 de ago. de 2019"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblpelota3">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/imagenes/pelota.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbUEFAChampionsLeagueVisita2">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo10"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Visita"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblEnglandLigaPremier5">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="09:00 - Newcastle VS Arsenal"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblUEFAChampionsLeague">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="UEFA Champions League"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblUEFAChampionsLeague1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="24 de jul. de 2019"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblUEFAChampionsLeague4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="28 de jul. de 2019"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblUEFAChampionsLeague2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="13:00 - Bate Borisov VS Rosenborg"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblUEFAChampionsLeague6">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="16:00 - Maribor VS Aik Stockholm"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbUEFAChampionsLeagueLocal1">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo9"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Local"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rbUEFAChampionsLeagueLocal1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbUEFAChampionsLeagueLocal4">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo12"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Local"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbUEFAChampionsLeagueEmpate1">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo9"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Empate"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbUEFAChampionsLeagueEmpate4">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo12"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Empate"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbUEFAChampionsLeagueVisita1">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo9"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Visita"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbUEFAChampionsLeagueVisita4">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo12"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Visita"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblUEFAChampionsLeague5">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="14:45 - Red Star Belgr VS Helsinki"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbEnglandLigaPremierLocal3">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo15"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Local"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbEnglandLigaPremierEmpate3">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo15"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Empate"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbUEFAChampionsLeagueLocal3">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo11"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Local"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbEnglandLigaPremierVisita3">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo15"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Visita"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbUEFAChampionsLeagueEmpate3">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo11"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Empate"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblEnglandLigaPremier6">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="11:30 - Manchester Utd VS Chelsea"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbUEFAChampionsLeagueVisita3">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo11"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Visita"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbEnglandLigaPremierLocal4">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo16"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Local"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbEnglandLigaPremierEmpate4">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo16"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Empate"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbEnglandLigaPremierVisita4">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo16"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Visita"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblpelota4">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/imagenes/pelota.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblEnglandLigaPremier">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="England Liga Premier "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblEnglandLigaPremier1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="9 de ago. de 2019"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblEnglandLigaPremier2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="15:00 - Liverpool VS Norwich"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbEnglandLigaPremierLocal1">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="grupo13"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Local"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Apostar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Volver"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Salir"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
